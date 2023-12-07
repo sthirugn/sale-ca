@@ -25,14 +25,21 @@ class App extends React.PureComponent {
 }
 
 const ProductList = (props) => {
+  // Sort the products by state: available, reserved, sold
+  const sortedProducts = props.products.sort((a, b) => {
+    const stateOrder = { available: 1, hold: 2, sold: 3 };
+    return stateOrder[a.state] - stateOrder[b.state];
+  });
+
   return (
     <div className="container">
-      {props.products.map((p, i) => (
+      {sortedProducts.map((p, i) => (
         <ProductCard key={i} product={p} />
       ))}
     </div>
   );
 };
+
 
 const ProductCard = (props) => {
   const p = props.product;
@@ -65,7 +72,7 @@ const ProductCard = (props) => {
         ) : (
           ""
         )}
-        {p.state == "reserved" ? (
+        {p.state == "hold" ? (
           <span className="product-span">
             <div className="reserved">HOLD</div>
             <img

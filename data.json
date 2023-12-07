@@ -62,5 +62,216 @@
     ],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Black chair",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/black-chair.jpeg",
+    "originalPrice": 200,
+    "price": 80,
+    "details": [
+      "Excellent condition",
+      "Lightly used",
+      "No issues/tears"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Comfirt chair",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/comfirt-chair.jpeg",
+    "originalPrice": 160,
+    "price": 30,
+    "details": [
+      "Excellent condition",
+      "Lightly used",
+      "No issues/tears"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Couch",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/couch.jpeg",
+    "originalPrice": 350,
+    "price": 200,
+    "details": [
+      "Lightly used",
+      "Excellent condition",
+      "No issues/tears",
+      "Comes with 4 pillows + 4 covers"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Standing Desk (electric)",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/desk.jpeg",
+    "originalPrice": 240,
+    "price": 160,
+    "details": [
+      "Only 6-8 months used",
+      "Excellent condition",
+      "No issues at all"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Dining table",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/dining-table.jpeg",
+    "originalPrice": 400,
+    "price": 150,
+    "details": [
+      "Cover + matt FREE",
+      "Good condition"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Rotating fan",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/fan.jpeg",
+    "price": 15,
+    "details": [
+      "Works perfectly fine",
+      "3 speed modes"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea dresser",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/ikea-dresser.jpeg",
+    "originalPrice": 180,
+    "price": 80,
+    "details": [
+      "Great condition",
+      "5 drawer",
+      "Very lightly used",
+      "Bought in Jan"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Bathroom stool",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/stool-bathroom.jpeg",
+    "price": 5,
+    "details": [
+      "Works perfectly fine"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Iron",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/iron.jpeg",
+    "originalPrice": 20,
+    "price": 10,
+    "details": [
+      "Good condition"
+    ],
+    "state": "hold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Mirror",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/mirror.jpeg",
+    "originalPrice": 90,
+    "price": 60,
+    "details": [
+      "A+ condition",
+      "Like new"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Night stand with one drawer",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/one-drwaer-night-stand.jpeg",
+    "price": 20,
+    "details": [
+      "Good condition"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Night stand with two drawers",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/one-drwaer-night-stand.jpeg",
+    "price": 20,
+    "details": [
+      "Great condition",
+      "Like new"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Plant stand",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/plant-stand.jpeg",
+    "price": 10,
+    "details": [
+      "Average condition"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Stool",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/stool.jpeg",
+    "price": 5,
+    "details": [
+      "Good condition"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Trash cans",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/trash-cans.jpeg",
+    "price": 5,
+    "details": [
+      "Good condition"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Weighing scale",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/weighing-scale.jpeg",
+    "price": 10,
+    "details": [
+      "Like new"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "White bucket",
+    "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
+    "imageUrl": "items_img/white-bucket.jpeg",
+    "price": 5,
+    "details": [
+      "Very Good condition"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
