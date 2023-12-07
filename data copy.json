@@ -1,10 +1,10 @@
 [
   {
-    "name": "AAAA Sacacorchos",
+    "name": "Sacacorchos",
     "url": "https://www.homesentry.co/p/sacacorchos-ilko-metalico/",
     "imageUrl": "img/sacacorchos.jpg",
     "originalPrice": 40000,
-    "price": 10000,
+    "price": 20000,
     "details": [
       "ENTREGA INMEDIATA",
       "Sacacorchos/destapador",
@@ -81,7 +81,7 @@
       "Impermeable, blanca, 1.3 KG, Alto: 105cm - Largo: 200cm - Ancho: 120cm",
       "Como nueva!"
     ],
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "23"
   },
   {
@@ -95,7 +95,7 @@
       "Sillas graduables en altura",
       "Como nuevas!"
     ],
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "8"
   },
   {

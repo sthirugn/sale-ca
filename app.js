@@ -7,16 +7,15 @@ class App extends React.PureComponent {
     return (
       <div>
         <header>
-          Venta de Cositas de
+          Forest Manor - Move out sale
           <br />
-          Milena & Julian
+          Srujan 984-789-7000
         </header>
         <h3 className="subtitle">
-          Se aceptan pagos por Nequi, Colpatria, Efectivo o Paypal. Solo Bogota.
-          <h4>(Algunas fechas de entrega podrian variar por algunos días)</h4>
+          If the product says available, it is available. Don't ask.
+          <h4>(First come first server, unless you pay to hold)</h4>
           <p>
-            Al hacer clic/tocar sobre las imagenes encontrás mas información de
-            producto
+            Feel free to whatsapp me. Thanks
           </p>
         </h3>
         <ProductList products={this.props.products} />
@@ -47,7 +46,7 @@ const ProductCard = (props) => {
 
   const goWhatsapp = () =>
     window.open(
-      `https://api.whatsapp.com/send?phone=+573006815916&text=Hola%2C%20estoy interesado en%20${p.name}`,
+      `https://api.whatsapp.com/send?phone=+19847897000&text=Hello%2C+I%27m+interested+in+${p.name}`,
       "_blank"
     );
 
@@ -56,7 +55,7 @@ const ProductCard = (props) => {
       <a href={p.url} target="_blank">
         {p.state == "sold" ? (
           <span className="product-span">
-            <div className="sold">VENDIDO</div>
+            <div className="sold">SOLD</div>
             <img
               className="product-img-filter-sold"
               src={p.imageUrl}
@@ -68,7 +67,7 @@ const ProductCard = (props) => {
         )}
         {p.state == "reserved" ? (
           <span className="product-span">
-            <div className="reserved">RESERVADO</div>
+            <div className="reserved">HOLD</div>
             <img
               className="product-img-filter-reserved"
               src={p.imageUrl}
@@ -80,7 +79,7 @@ const ProductCard = (props) => {
         )}
         {p.state == "notavailable" ? (
           <span className="product-span">
-            <div className="notavailable">NO DISPONIBLE</div>
+            <div className="notavailable">NOT AVAILABLE</div>
             <img
               className="product-img-filter-notavailable"
               src={p.imageUrl}
@@ -92,7 +91,7 @@ const ProductCard = (props) => {
         )}
         {p.state == "available" ? (
           <span className="product-span">
-            <div className="available">DISPONIBLE</div>
+            <div className="available">AVAILABLE</div>
             <img className="product-img" src={p.imageUrl} loading="lazy" />
           </span>
         ) : (
@@ -101,7 +100,7 @@ const ProductCard = (props) => {
       </a>
       <div className="product-details">
         <h3>{p.name}</h3>
-        {discount > 0 && <span className="discount">-{discount}%</span>}
+         {discount > 0 && <span className="discount">-{discount}%</span>}
         <ul>
           {p.details.map((detail) => (
             <li>{detail}</li>
