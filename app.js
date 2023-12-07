@@ -37,9 +37,9 @@ const ProductList = (props) => {
 const ProductCard = (props) => {
   const p = props.product;
   const formatPrice = (p) =>
-    p.toLocaleString("es-CO", {
+    p.toLocaleString("en-US", {
       style: "currency",
-      currency: "COP",
+      currency: "USD",
       maximumFractionDigits: "0",
     });
   const discount = Math.round(100 - (p.price / p.originalPrice) * 100);
@@ -111,7 +111,7 @@ const ProductCard = (props) => {
         <span className="price">{formatPrice(p.price)}</span>
         <div className="box">
           <img className="icon" src="./whatsapp-icon.png" />
-          <button className="payment">Comprar</button>
+          <button className="payment">Whatsapp</button>
         </div>
       </div>
     </div>
