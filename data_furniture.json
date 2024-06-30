@@ -17,8 +17,8 @@
     "imageUrl": "items_img/dining_table_with_chairs.jpeg",
     "price": "$200",
     "details": [
-      "table x in  y in",
-      "extended x in * y in"
+      "Beautiful table",
+      "4 Accent chairs"
     ],
     "state": "available",
     "purchaser": "id"
@@ -29,7 +29,7 @@
     "imageUrl": "items_img/queen_bed.jpeg",
     "price": "$100",
     "details": [
-      "measurements x in * y in"
+      "Bought in Ikea for $349 1 year ago"
     ],
     "state": "available",
     "purchaser": "id"
@@ -40,7 +40,7 @@
      "imageUrl": "items_img/queen_bed_other.jpeg",
      "price": "$100",
      "details": [
-       "measurements x in * y in"
+      "Bought in Ikea for $349 1 year ago"
      ],
      "state": "available",
      "purchaser": "id"
@@ -49,9 +49,9 @@
     "name": "Sofa (with ottoman)",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/sofa_with_ottoman.jpeg",
-    "price": "$100",
+    "price": "$200",
     "details": [
-    "measurements x in * y in"
+    "Bought in wayfair for $1000 10 months ago"
     ],
     "state": "available",
     "purchaser": "id"
@@ -60,9 +60,9 @@
     "name": "Toddler booster seat",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/toddler_booster_seat.jpeg",
-    "price": "$100",
+    "price": "$20",
     "details": [
-    "measurements x in * y in"
+    "Bought 10 months ago for $50"
     ],
     "state": "available",
     "purchaser": "id"
@@ -93,9 +93,12 @@
     "name": "Women's winter jacket",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/womens_winter_jacket.jpeg",
-    "price": "$100",
+    "price": "$60",
     "details": [
-    "measurements x in * y in"
+    "Bought in Mountain warehouse",
+    "Florence Extra long",
+    "Size: Large",
+    "Paid: $120"
     ],
     "state": "available",
     "purchaser": "id"
@@ -104,9 +107,10 @@
     "name": "Men's snow boots",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/mens_snow_boots.jpeg",
-    "price": "$100",
+    "price": "$45",
     "details": [
-    "measurements x in * y in"
+      "Bought in Mountain warehouse",
+      "Size: 11"
     ],
     "state": "available",
     "purchaser": "id"
