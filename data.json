@@ -68,4 +68,15 @@
     "state": "available",
     "purchaser": "id"
   }
+  {
+    "name": "Toddler booster seat",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/toddler_booster_seat.jpeg",
+    "price": "$100",
+    "details": [
+    "measurements x in * y in"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  }
 ]
