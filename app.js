@@ -13,7 +13,7 @@ class App extends React.PureComponent {
         </header>
         <h3 className="subtitle">
           If the product says available, it is available. Don't ask.
-          <h4>(First come first server, unless you pay to hold)</h4>
+          <h4>(First come first serve, unless you pay to hold)</h4>
           <p>
             Feel free to whatsapp me. Thanks
           </p>
