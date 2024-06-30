@@ -10,17 +10,6 @@
     ],
     "state": "available",
     "purchaser": "id"
-  },
-  {
-    "name": "Dinning table (with 4 chairs)",
-    "url": "n/a",
-    "imageUrl": "items_img/dining_table_with_chairs.jpeg",
-    "price": "$200",
-    "details": [
-      "table x in  y in",
-      "extended x in * y in"
-    ],
-    "state": "available",
-    "purchaser": "id"
   }
+  
 ]
