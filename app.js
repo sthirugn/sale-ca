@@ -129,6 +129,19 @@ const ProductCard = (props) => {
 };
 
 // Load the data.json file and parse it
+fetch("./data_furniture.json")
+  .then((response) => response.json())
+  .then((productsData) => {
+    // Assuming the JSON contains an array of products
+    const products = productsData;
+    ReactDOM.render(
+      <App products={products} />,
+      document.getElementById("root")
+    );
+  });
+
+  
+// Load the data.json file and parse it
 fetch("./data.json")
   .then((response) => response.json())
   .then((productsData) => {
