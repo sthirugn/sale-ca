@@ -66,5 +66,49 @@
     ],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Fish Aquarium set",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/fish_aquarium_set.jpeg",
+    "price": "$100",
+    "details": [
+    "measurements x in * y in"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Balloon Inflator",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/balloon_inflator.jpeg",
+    "price": "$100",
+    "details": [
+    "measurements x in * y in"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Women's winter jacket",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/womens_winter_jacket.jpeg",
+    "price": "$100",
+    "details": [
+    "measurements x in * y in"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Men's snow boots",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/mens_snow_boots.jpeg",
+    "price": "$100",
+    "details": [
+    "measurements x in * y in"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
