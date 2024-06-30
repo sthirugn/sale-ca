@@ -17,6 +17,9 @@ class App extends React.PureComponent {
           <p>
             Feel free to whatsapp me. Thanks
           </p>
+          <p>
+            Pick up location: Freshco (Don Mills & Helen Lu)
+          </p>
         </h3>
         <ProductList products={this.props.products} />
       </div>
@@ -53,7 +56,7 @@ const ProductCard = (props) => {
 
   const goWhatsapp = () =>
     window.open(
-      `https://api.whatsapp.com/send?phone=+19847897000&text=Hello%2C+I%27m+interested+in+${p.name}`,
+      `https://api.whatsapp.com/send?phone=+12108591607&text=Hello%2C+I%27m+interested+in+${p.name}`,
       "_blank"
     );
 
