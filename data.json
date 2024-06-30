@@ -34,5 +34,28 @@
     ],
     "state": "available",
     "purchaser": "id"
-  }
+  },
+  {
+  "name": "Queen bed",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/queen_bed.jpeg",
+    "price": "$100",
+    "details": [
+      "measurements x in * y in"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Queen bed other",
+      "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+      "imageUrl": "items_img/queen_bed_other.jpeg",
+      "price": "$100",
+      "details": [
+        "measurements x in * y in"
+      ],
+      "state": "available",
+      "purchaser": "id"
+    },
+
 ]
