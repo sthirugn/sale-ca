@@ -9,7 +9,7 @@ class App extends React.PureComponent {
         <header>
           Forest Manor - Move out sale
           <br />
-          Srujan 984-789-7000
+          suri 210-859-1607
         </header>
         <h3 className="subtitle">
           If the product says available, it is available. Don't ask.
