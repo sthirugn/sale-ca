@@ -3,14 +3,25 @@
     "name": "Costco winter tires (set of 4)",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/costco_winter_tires.jpeg",
-    "price": "$" 1000,
+    "price": "$1000",
     "details": [
-      "MICHELIN X-ICE SNOW 245/50R20 105TXL 30821"
-      "Like new, used for 3300km",
+      "MICHELIN X-ICE SNOW 245/50R20 105TXL 30821",
+      "Like new ran 3300km",
       "Bought for $1647.50"
     ],
     "state": "available",
     "purchaser": "id"
-  }
+  },
+  {
+    "name": "Dinning table (with 4 chairs)",
+    "imageUrl": "items_img/dining_table_with_chairs.jpeg",
+    "price": "$80",
+    "details": [
+      "table x in  y in",
+      "extended x in * y in"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
 
 ]
