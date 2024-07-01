@@ -57,6 +57,39 @@
     "purchaser": "id"
   },
   {
+    "name": "Ikea Storage Cabinet",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/ikea_storage_cabinet.jpeg",
+    "price": "$500",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea Storage Shelf",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/ikea_storage_shelf.jpeg",
+    "price": "$100",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Kids work table (with 2 chairs)",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/kids_work_table.jpeg",
+    "price": "$300",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Toddler booster seat",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/toddler_booster_seat.jpeg",
