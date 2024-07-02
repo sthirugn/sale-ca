@@ -79,6 +79,72 @@
     "purchaser": "id"
   },
   {
+    "name": "3 Tier Drawer",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/3_tier_drawer.jpeg",
+    "price": "$20",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "3 Tier Shelf",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/3_tier_shelf.jpeg",
+    "price": "$20",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wide 3 Tier drawers (#1)",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/wide_3_tier_drawers_1.jpeg",
+    "price": "$25",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wide 3 Tier drawers (#2)",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/wide_3_tier_drawers_1.jpeg",
+    "price": "$25",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wide 3 Tier drawers Sterilite Weave",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/wide_3_tier_drawers_sterilite_weave.jpeg",
+    "price": "$50",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wider 6 drawers fabric dresser",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/wide_6_drawers_fabric_dresser.jpeg",
+    "price": "$50",
+    "details": [
+    "Add Ikea description"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Kids work table (with 2 chairs)",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/kids_work_table.jpeg",
