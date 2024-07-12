@@ -204,16 +204,6 @@
     "purchaser": "id"
   },
   {
-    "name": "(FREE) Toddler booster seat",
-    "imageUrl": "items_img/toddler_booster_seat.jpeg",
-    "price": "FREE",
-    "details": [
-    "Sells in Walmart for $25"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Fish Aquarium set",
     "imageUrl": "items_img/fish_aquarium_set.jpeg",
     "price": "$30",
@@ -253,6 +243,56 @@
     "details": [
       "Bought in Mountain warehouse, used once, worth $50",
       "Size: 11"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Kids size white hangers",
+    "imageUrl": "items_img/kids_size_hangers.jpeg",
+    "price": "$10",
+    "details": [
+      "Total 60 hangers, bought for $30; asking $10"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea black hangers - regular size",
+    "imageUrl": "items_img/black_hangers_ikea.jpeg",
+    "price": "$7",
+    "details": [
+      "Total 70 hangers, bought for $16; asking $7"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Hangers - White regular size",
+    "imageUrl": "items_img/white_hangers_regular.jpeg",
+    "price": "FREE",
+    "details": [
+      "Total 24 hangers"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Heavy duty jacker hangers",
+    "imageUrl": "items_img/heavy_duty_jacket_hangers.jpeg",
+    "price": "FREE",
+    "details": [
+      "Total 10 hangers"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Toddler booster seat",
+    "imageUrl": "items_img/toddler_booster_seat.jpeg",
+    "price": "FREE",
+    "details": [
+    "Sells in Walmart for $25"
     ],
     "state": "available",
     "purchaser": "id"
