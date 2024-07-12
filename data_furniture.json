@@ -1,18 +1,5 @@
 [
   {
-    "name": "Costco winter tires (set of 4)",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
-    "imageUrl": "items_img/costco_winter_tires.jpeg",
-    "price": "$1000",
-    "details": [
-      "MICHELIN X-ICE SNOW 245/50R20 105TXL 30821, Like new ran 3300km",
-      "Bought for $1647.50 (asking $1k)",
-      "DOT 1HN JD 01KX 3623"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Expandable Dining table (with 4 chairs)",
     "imageUrl": "items_img/dining_table_with_chairs.jpeg",
     "price": "$100",
@@ -199,6 +186,19 @@
     "details": [
     "Great Condition",
     "2 plastic chairs included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Costco winter tires (set of 4)",
+    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "imageUrl": "items_img/costco_winter_tires.jpeg",
+    "price": "$1000",
+    "details": [
+      "MICHELIN X-ICE SNOW 245/50R20 105TXL 30821, Like new ran 3300km",
+      "Bought for $1647.50 (asking $1k)",
+      "DOT 1HN JD 01KX 3623"
     ],
     "state": "available",
     "purchaser": "id"
