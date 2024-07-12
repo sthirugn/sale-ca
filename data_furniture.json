@@ -12,25 +12,25 @@
     "purchaser": "id"
   },
   {
-  "name": "Queen bed 1",
+  "name": "Queen mattress 1",
     "imageUrl": "items_img/queen_bed.jpeg",
     "price": "$100",
     "details": [
       "FREE: mattress protector, 2 pillows, pillowcases, flat and fitted sheets",
       "Excellent condition - no spills or stains, pet-free, smoke-free",
-      "Mattress bought in Ikea for $349 1 year ago; pillows and bedding cost $100"
+      "Mattress bought in Ikea 1 year ago for $349; Paid $100 for pillows and bedding"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Queen bed 2",
+    "name": "Queen mattress 2",
      "imageUrl": "items_img/queen_bed_other.jpeg",
      "price": "$100",
      "details": [
       "FREE: mattress protector, 2 pillows, pillowcases, flat and fitted sheets",
       "Excellent condition - no spills or stains, pet-free, smoke-free",
-      "Mattress bought in Ikea for $349 1 year ago; pillows and bedding cost $100"
+      "Mattress bought in Ikea 1 year ago for $349; Paid $100 for pillows and bedding"
      ],
      "state": "available",
      "purchaser": "id"
