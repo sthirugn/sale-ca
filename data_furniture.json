@@ -129,7 +129,7 @@
     "Excellent condition - no damages",
     "Sells in Walmart for $25"
     ],
-    "state": "sold",
+    "state": "available",
     "purchaser": "id"
   },
   {
@@ -160,7 +160,7 @@
     "details": [
       "Sells in Walmart for $35"
     ],
-    "state": "sold",
+    "state": "available",
     "purchaser": "id"
   },
   {
