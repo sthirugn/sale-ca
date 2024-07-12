@@ -49,11 +49,13 @@
   },
   {
     "name": "Ikea Storage Cabinet KALLAX",
+    "url": "https://www.ikea.com/ca/en/p/kallax-shelf-unit-white-80275887/",
     "imageUrl": "items_img/ikea_storage_cabinet.jpeg",
     "price": "$40",
     "details": [
     "Excellent condition - no damages",
-    "shelf-only"
+    "shelf-only",
+    "white, 30in x 57in"
     ],
     "state": "available",
     "purchaser": "id"
@@ -63,7 +65,8 @@
     "imageUrl": "items_img/ikea_storage_shelf.jpeg",
     "price": "$90",
     "details": [
-    "Excellent condition - no damages"
+    "Excellent condition - no damages",
+    "41in wide x 55in tall x 14.5in depth"
     ],
     "state": "available",
     "purchaser": "id"
