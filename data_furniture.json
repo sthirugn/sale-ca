@@ -6,193 +6,237 @@
     "price": "$1000",
     "details": [
       "MICHELIN X-ICE SNOW 245/50R20 105TXL 30821, Like new ran 3300km",
-      "Bought for $1647.50"
+      "Bought for $1647.50 (asking $1k)",
+      "DOT 1HN JD 01KX 3623"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Dinning table (with 4 chairs)",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "name": "Expandable Dining table (with 4 chairs)",
     "imageUrl": "items_img/dining_table_with_chairs.jpeg",
-    "price": "$200",
+    "price": "$100",
     "details": [
-      "Beautiful table",
-      "4 Accent chairs"
+      "Table 47in x 32in, expands to 71in length",
+      "4 Accent chairs",
+      "pet-free, smoke-free"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-  "name": "Queen bed",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+  "name": "Queen bed 1",
     "imageUrl": "items_img/queen_bed.jpeg",
     "price": "$100",
     "details": [
-      "Bought in Ikea for $349 1 year ago"
+      "FREE: mattress protector, 2 pillows, pillowcases, flat and fitted sheets",
+      "Excellent condition - no spills or stains, pet-free, smoke-free",
+      "Mattress bought in Ikea for $349 1 year ago; pillows and bedding cost $100"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Queen bed other",
-     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "name": "Queen bed 2",
      "imageUrl": "items_img/queen_bed_other.jpeg",
      "price": "$100",
      "details": [
-      "Bought in Ikea for $349 1 year ago"
+      "FREE: mattress protector, 2 pillows, pillowcases, flat and fitted sheets",
+      "Excellent condition - no spills or stains, pet-free, smoke-free",
+      "Mattress bought in Ikea for $349 1 year ago; pillows and bedding cost $100"
      ],
      "state": "available",
      "purchaser": "id"
   },
   {
     "name": "Sofa (with ottoman)",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/sofa_with_ottoman.jpeg",
     "price": "$200",
     "details": [
-    "Bought in wayfair for $1000 10 months ago"
+    "Bought in wayfair for $800 11 months ago",
+    "Sofa 79in x 29 in",
+    "Excellent condition - no spills or stains or damages, pet-free, smoke-free",
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Ikea Storage Cabinet",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "name": "Ikea Storage Cabinet KALLAX",
     "imageUrl": "items_img/ikea_storage_cabinet.jpeg",
+    "price": "$40",
+    "details": [
+    "Excellent condition - no damages",
+    "shelf-only"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea Storage Unit VIHALS",
+    "imageUrl": "items_img/ikea_storage_shelf.jpeg",
+    "price": "$90",
+    "details": [
+    "Excellent condition - no damages"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Walmart bookshelf",
+    "imageUrl": "items_img/bookshelf.jpeg",
+    "price": "$20",
+    "details": [
+    "Excellent condition - no damages",
+    "Sells in Walmart for $50"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Office Sit Stand Convertible electric desk",
+    "url": "https://www.amazon.ca/gp/product/B0BCHKR1J6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=111101"                      ,
+    "imageUrl": "items_img/office_desk.jpeg",
     "price": "$75",
     "details": [
-    "Add Ikea description"
+    "Excellent condition - no damages",
+    "Sells in Amazon for $190"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Ikea Storage Shelf",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
-    "imageUrl": "items_img/ikea_storage_shelf.jpeg",
-    "price": "$100",
+    "name": "Wayfair Houstin Ergonomic Mesh Task chair",
+    "imageUrl": "items_img/office_chair.jpeg",
+    "price": "$50",
     "details": [
-    "Add Ikea description"
+    "Excellent condition - no damages",
+    "Height adjustable",
+    "Paid $180 - 11 months ago"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Samsung 24-in LED-Lit Monitor",
+    "url": "https://www.amazon.ca/gp/product/B08J4JRRCT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"                      ,
+    "imageUrl": "items_img/monitor.jpeg",
+    "price": "$50",
+    "details": [
+    "Excellent condition - no damages; Used very lightly for 11 months",
+    "Samsung LS24T350FHNXZA 24-inch Screen LED-Lit Monitor 5ms 75Hz Eye-Saver Mode with Freesync (LF24T350FHNXZA)"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "3 Tier Drawer",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/3_tier_drawer.jpeg",
-    "price": "$20",
+    "price": "$10",
     "details": [
-    "Add Ikea description"
+    "Excellent condition - no damages",
+    "Sells in Walmart for $25"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "3 Tier Shelf",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/3_tier_shelf.jpeg",
-    "price": "$20",
+    "price": "$10",
     "details": [
-    "Add Ikea description"
+      "Excellent condition - no damages",
+      "Sells in Walmart for $25"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Wide 3 Tier drawers (#1)",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/wide_3_tier_drawers_1.jpeg",
-    "price": "$25",
+    "price": "$10",
     "details": [
-    "Add Ikea description"
+    "Sells in Walmart for $35"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Wide 3 Tier drawers (#2)",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/wide_3_tier_drawers_1.jpeg",
-    "price": "$25",
+    "price": "$10",
     "details": [
-    "Add Ikea description"
+      "Sells in Walmart for $35"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Wide 3 Tier drawers Sterilite Weave",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/wide_3_tier_drawers_sterilite_weave.jpeg",
-    "price": "$50",
+    "price": "$20",
     "details": [
-    "Add Ikea description"
+    "Fantastic condition",
+    "Sells in Walmart for $50"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Wider 6 drawers fabric dresser",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/wide_6_drawers_fabric_dresser.jpeg",
-    "price": "$50",
+    "price": "$40",
     "details": [
-    "Add Ikea description"
+      "Fantastic condition",
+      "Sells in Amzaon for $90"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Kids work table (with 2 chairs)",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/kids_work_table.jpeg",
     "price": "$30",
     "details": [
-    "Add Ikea description"
+    "Great Condition",
+    "2 plastic chairs included"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Toddler booster seat",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
+    "name": "(FREE) Toddler booster seat",
     "imageUrl": "items_img/toddler_booster_seat.jpeg",
-    "price": "$20",
+    "price": "FREE",
     "details": [
-    "Bought 10 months ago for $50"
+    "Sells in Walmart for $25"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Fish Aquarium set",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/fish_aquarium_set.jpeg",
-    "price": "$100",
+    "price": "$30",
     "details": [
-    "measurements x in * y in"
+    "Betta bowl set includes bowl, heater, filter with 3 pack cartridge refill, ph test kit, Melafix antifungal, aquarium salt, aquarium water conditioner, decorative rock, silk plant, food, net and baster for water change. If bought new, worth $120."
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Balloon Inflator",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/balloon_inflator.jpeg",
-    "price": "$10",
+    "price": "$8",
     "details": [
-    "Brand new, got it in walmart for $20"
+    "Brand new, got it in walmart for $20, used once"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
     "name": "Women's winter jacket",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/womens_winter_jacket.jpeg",
-    "price": "$60",
+    "price": "$40",
     "details": [
     "Bought in Mountain warehouse",
     "Florence Extra long",
@@ -204,11 +248,10 @@
   },
   {
     "name": "Men's snow boots",
-    "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/mens_snow_boots.jpeg",
-    "price": "$45",
+    "price": "$20",
     "details": [
-      "Bought in Mountain warehouse",
+      "Bought in Mountain warehouse, used once, worth $50",
       "Size: 11"
     ],
     "state": "available",
