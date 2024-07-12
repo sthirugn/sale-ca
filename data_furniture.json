@@ -57,7 +57,7 @@
     "shelf-only",
     "white, 30in x 57in"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -68,7 +68,7 @@
     "Excellent condition - no damages",
     "41in wide x 55in tall x 14.5in depth"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -80,7 +80,7 @@
     "Sells in Walmart for $50",
     "Height: 72in, width: 25in"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -140,7 +140,7 @@
       "Excellent condition - no damages",
       "Sells in Walmart for $25"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -281,7 +281,7 @@
     "details": [
       "Total 24 hangers"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -291,7 +291,7 @@
     "details": [
       "Total 10 hangers"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
