@@ -71,7 +71,7 @@
   {
     "name": "Walmart bookshelf",
     "imageUrl": "items_img/bookshelf.jpeg",
-    "price": "$20",
+    "price": "$25",
     "details": [
     "Excellent condition - no damages",
     "Sells in Walmart for $50"
@@ -185,7 +185,8 @@
     "price": "$30",
     "details": [
     "Great Condition",
-    "2 plastic chairs included"
+    "2 plastic chairs included",
+    "Black drawer not included"
     ],
     "state": "available",
     "purchaser": "id"
@@ -216,7 +217,7 @@
   {
     "name": "Balloon Inflator",
     "imageUrl": "items_img/balloon_inflator.jpeg",
-    "price": "$8",
+    "price": "$10",
     "details": [
     "Brand new, got it in walmart for $20, used once"
     ],
