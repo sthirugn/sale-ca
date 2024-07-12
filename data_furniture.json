@@ -240,7 +240,7 @@
     "Size: Large",
     "Paid: $120"
     ],
-    "state": "SOLD",
+    "state": "sold",
     "purchaser": "id"
   },
   {
