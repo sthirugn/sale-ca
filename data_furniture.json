@@ -160,7 +160,7 @@
     "details": [
       "Sells in Walmart for $35"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -304,7 +304,7 @@
     "details": [
     "Sells in Walmart for $25"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   }
 ]
