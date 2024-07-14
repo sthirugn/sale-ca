@@ -132,7 +132,7 @@
     "imageUrl": "items_img/ladder_small.jpeg",
     "price": "$25",
     "details": [
-      "Paid $50"
+      "Paid $50; bought 6 months ago"
     ],
     "state": "available",
     "purchaser": "id"
@@ -152,7 +152,8 @@
     "imageUrl": "items_img/vacuum_cleaner.jpeg",
     "price": "$80",
     "details": [
-      "Paid $160",
+      "Paid $160; comes with multiple attachments",
+      "Lightweight, durable, ideal for apartments and condos",
       "Excellent condition; bought 1 year ago"
     ],
     "state": "available",
@@ -163,7 +164,8 @@
     "imageUrl": "items_img/small_two_tier_drawer.jpeg",
     "price": "$20",
     "details": [
-      "Paid $40 6 months ago"
+      "Paid $40 - 6 months ago",
+      "Excellent condition"
     ],
     "state": "available",
     "purchaser": "id"
@@ -173,7 +175,8 @@
     "imageUrl": "items_img/ikea_toolbox.jpeg",
     "price": "$5",
     "details": [
-      "Excellent condition"
+      "Excellent condition",
+      "Has all the basic tools for apartment/condo living"
     ],
     "state": "available",
     "purchaser": "id"
@@ -183,7 +186,8 @@
     "imageUrl": "items_img/ikea_storage_box_2.jpeg",
     "price": "$8",
     "details": [
-      "Paid $20 6 months ago"
+      "Paid $20 - 6 months ago",
+      "Fantastic condition"
     ],
     "state": "available",
     "purchaser": "id"
@@ -193,7 +197,7 @@
     "imageUrl": "items_img/water_jugs.jpeg",
     "price": "$15",
     "details": [
-      "Excellent condition; very soft and clean",
+      "Excellent condition",
       "You can get $1 refill of these in Canadian tires"
     ],
     "state": "available",
@@ -204,7 +208,8 @@
     "imageUrl": "items_img/rugs.jpeg",
     "price": "$10",
     "details": [
-      "Excellent condition; very soft and clean"
+      "Excellent condition; very soft and clean",
+      "Bought 1 year ago, didn't use it much, was in storage"
     ],
     "state": "available",
     "purchaser": "id"
@@ -214,7 +219,7 @@
     "imageUrl": "items_img/iron_box.jpeg",
     "price": "$10",
     "details": [
-      "Bought it few months ago and never opened "
+      "Bought it few months ago and never opened"
     ],
     "state": "available",
     "purchaser": "id"
@@ -224,18 +229,18 @@
     "imageUrl": "items_img/ikea_bowl.jpeg",
     "price": "$5",
     "details": [
-      "As shown in the picture; just the bowl"
+      "As shown in the picture; just the bowl",
+      "Excellent condition"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "2 kids Foam Mats for playing",
+    "name": "2 kids play Foam Mats",
     "imageUrl": "items_img/foam_mats.jpeg",
     "price": "$10",
     "details": [
-      "As shown in the picture",
-      "Good for outdoor play of the kids like chalk"
+      "Good for outdoor play of the kids (like chalk)"
     ],
     "state": "available",
     "purchaser": "id"
