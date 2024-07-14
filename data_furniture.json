@@ -214,7 +214,7 @@
     "imageUrl": "items_img/ikea_bowl.jpeg",
     "price": "$5",
     "details": [
-      "As shown in the picture"
+      "As shown in the picture; just the bowl"
     ],
     "state": "available",
     "purchaser": "id"
@@ -275,7 +275,7 @@
     "imageUrl": "items_img/shoe_rack.jpeg",
     "price": "FREE",
     "details": [
-      "As seen in the picture"
+      "As seen in the picture; shoes not included"
     ],
     "state": "available",
     "purchaser": "id"
