@@ -179,16 +179,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea Storage box 1",
-    "imageUrl": "items_img/ikea_storage_box_1.jpeg",
-    "price": "FREE",
-    "details": [
-      "tbd"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Ikea Storage box 2",
     "imageUrl": "items_img/ikea_storage_box_2.jpeg",
     "price": "$8",
@@ -198,16 +188,7 @@
     "state": "available",
     "purchaser": "id"
   },
-  {
-    "name": "Ikea Storage box 3",
-    "imageUrl": "items_img/ikea_storage_box_3.jpeg",
-    "price": "FREE",
-    "details": [
-      "tbd"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
+
   {
     "name": "Grey Rugs (2)",
     "imageUrl": "items_img/rugs.jpeg",
@@ -229,17 +210,28 @@
     "purchaser": "id"
   },
   {
-    "name": "Boot Tray",
-    "imageUrl": "items_img/boot_tray.jpeg",
-    "price": "FREE",
+    "name": "Ikea Bowl",
+    "imageUrl": "items_img/ikea_bowl.jpeg",
+    "price": "$5",
     "details": [
-      "As seen in the picture"
+      "As shown in the picture"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Toddler Swim diaper",
+    "name": "(FREE) Boot Tray",
+    "imageUrl": "items_img/boot_tray.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture",
+      "Shoes not included; tray only"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Toddler Swim diaper",
     "imageUrl": "items_img/toddler_swim_diaper.jpeg",
     "price": "FREE",
     "details": [
@@ -249,7 +241,7 @@
     "purchaser": "id"
   },
   {
-    "name": "Toddler snow boots",
+    "name": "(FREE) Toddler snow boots",
     "imageUrl": "items_img/toddler_snow_boot.jpeg",
     "price": "FREE",
     "details": [
@@ -259,7 +251,7 @@
     "purchaser": "id"
   },
   {
-    "name": "Kids snow boots",
+    "name": "(FREE) Kids snow boots",
     "imageUrl": "items_img/kids_snow_boot.jpeg",
     "price": "FREE",
     "details": [
@@ -269,7 +261,7 @@
     "purchaser": "id"
   },
   {
-    "name": "Potty training seat (ikea)",
+    "name": "(FREE) Potty training seat (ikea)",
     "imageUrl": "items_img/potty_training_seat.jpeg",
     "price": "FREE",
     "details": [
@@ -279,7 +271,7 @@
     "purchaser": "id"
   },
   {
-    "name": "Shoe Rack",
+    "name": "(FREE) Shoe Rack",
     "imageUrl": "items_img/shoe_rack.jpeg",
     "price": "FREE",
     "details": [
@@ -289,7 +281,27 @@
     "purchaser": "id"
   },
   {
-    "name": "Rogers media kit",
+    "name": "Ikea Storage box 1",
+    "imageUrl": "items_img/ikea_storage_box_1.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea Storage box 3",
+    "imageUrl": "items_img/ikea_storage_box_3.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Rogers media kit",
     "imageUrl": "items_img/rogers_kit.jpeg",
     "price": "FREE",
     "details": [
