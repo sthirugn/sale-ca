@@ -188,7 +188,17 @@
     "state": "available",
     "purchaser": "id"
   },
-
+  {
+    "name": "2 5-gallon water bottles BPA free",
+    "imageUrl": "items_img/water_jugs.jpeg",
+    "price": "$15",
+    "details": [
+      "Excellent condition; very soft and clean",
+      "You can get $1 refill of these in Canadian tires"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
   {
     "name": "Grey Rugs (2)",
     "imageUrl": "items_img/rugs.jpeg",
@@ -215,6 +225,17 @@
     "price": "$5",
     "details": [
       "As shown in the picture; just the bowl"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "2 kids Foam Mats for playing",
+    "imageUrl": "items_img/foam_mats.jpeg",
+    "price": "$10",
+    "details": [
+      "As shown in the picture",
+      "Good for outdoor play of the kids like chalk"
     ],
     "state": "available",
     "purchaser": "id"
@@ -281,7 +302,7 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea Storage box 1",
+    "name": "(FREE) Ikea Storage box 1",
     "imageUrl": "items_img/ikea_storage_box_1.jpeg",
     "price": "FREE",
     "details": [
@@ -291,8 +312,38 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea Storage box 3",
+    "name": "(FREE) Ikea Storage box 3",
     "imageUrl": "items_img/ikea_storage_box_3.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Bread Toaster",
+    "imageUrl": "items_img/bread_toaster.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Patio Chair",
+    "imageUrl": "items_img/patio_chair.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+    {
+    "name": "(FREE) Water Kettle",
+    "imageUrl": "items_img/kettle_free.jpeg",
     "price": "FREE",
     "details": [
       "As shown in the picture"
