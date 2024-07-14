@@ -43,4 +43,190 @@
     "state": "available",
     "purchaser": "id"
   }
+  {
+    "name": "Ikea black hangers - regular size",
+    "imageUrl": "items_img/black_hangers_ikea.jpeg",
+    "price": "$7",
+    "details": [
+      "Total 70 hangers, bought for $16; asking $7"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+     {
+    "name": "Sofa (with ottoman)",
+    "imageUrl": "items_img/sofa_with_ottoman.jpeg",
+    "price": "$200",
+    "details": [
+    "Bought in wayfair for $800 11 months ago",
+    "Sofa 79in x 29 in",
+    "Excellent condition - no spills or stains or damages, pet-free, smoke-free"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  
+    {
+    "name": "Ikea Storage Cabinet KALLAX",
+    "url": "https://www.ikea.com/ca/en/p/kallax-shelf-unit-white-80275887/",
+    "imageUrl": "items_img/ikea_storage_cabinet.jpeg",
+    "price": "$40",
+    "details": [
+    "Excellent condition - no damages",
+    "shelf-only",
+    "white, 30in x 57in"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+ 
+  {
+    "name": "Ikea Storage Unit VIHALS",
+    "imageUrl": "items_img/ikea_storage_shelf.jpeg",
+    "price": "$90",
+    "details": [
+    "Excellent condition - no damages",
+    "41in wide x 55in tall x 14.5in depth"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  
+  {
+    "name": "Walmart bookshelf",
+    "imageUrl": "items_img/bookshelf.jpeg",
+    "price": "$25",
+    "details": [
+    "Excellent condition - no damages",
+    "Sells in Walmart for $50",
+    "Height: 72in, width: 25in"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  
+  {
+    "name": "Office Sit Stand Convertible electric desk",
+    "url": "https://www.amazon.ca/gp/product/B0BCHKR1J6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=111101",
+    "imageUrl": "items_img/office_desk.jpeg",
+    "price": "$75",
+    "details": [
+    "Excellent condition - no damages",
+    "Sells in Amazon for $190",
+    "43in length x 24in wide",
+    "Height: Lowest 28in Tallest 46in"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wayfair Houstin Ergonomic Mesh Task chair",
+    "imageUrl": "items_img/office_chair.jpeg",
+    "price": "$50",
+    "details": [
+    "Excellent condition - no damages",
+    "Height adjustable",
+    "Paid $180 - 11 months ago"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Samsung 24-in LED-Lit Monitor",
+    "url": "https://www.amazon.ca/gp/product/B08J4JRRCT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
+    "imageUrl": "items_img/monitor.jpeg",
+    "price": "$50",
+    "details": [
+    "Excellent condition - no damages; Used very lightly for 11 months",
+    "Samsung LS24T350FHNXZA 24-inch Screen LED-Lit Monitor 5ms 75Hz Eye-Saver Mode with Freesync (LF24T350FHNXZA)"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+
+  {
+    "name": "3 Tier Drawer",
+    "imageUrl": "items_img/3_tier_drawer.jpeg",
+    "price": "$10",
+    "details": [
+    "Excellent condition - no damages",
+    "Sells in Walmart for $25"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "3 Tier Shelf",
+    "imageUrl": "items_img/3_tier_shelf.jpeg",
+    "price": "$10",
+    "details": [
+      "Excellent condition - no damages",
+      "Sells in Walmart for $25"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wide 3 Tier drawers (#1)",
+    "imageUrl": "items_img/wide_3_tier_drawers_1.jpeg",
+    "price": "$10",
+    "details": [
+    "Sells in Walmart for $35"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+
+  {
+    "name": "Wide 3 Tier drawers (#2)",
+    "imageUrl": "items_img/wide_3_tier_drawers_1.jpeg",
+    "price": "$10",
+    "details": [
+      "Sells in Walmart for $35"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Kids work table (with 2 chairs)",
+    "imageUrl": "items_img/kids_work_table.jpeg",
+    "price": "$30",
+    "details": [
+    "Great Condition",
+    "2 plastic chairs included",
+    "Black drawer not included"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Hangers - White regular size",
+    "imageUrl": "items_img/white_hangers_regular.jpeg",
+    "price": "FREE",
+    "details": [
+      "Total 24 hangers"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Toddler booster dining seat",
+    "imageUrl": "items_img/toddler_booster_seat.jpeg",
+    "price": "FREE",
+    "details": [
+    "Sells in Walmart for $25"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  }
+  {
+    "name": "(FREE) Heavy duty jacker hangers",
+    "imageUrl": "items_img/heavy_duty_jacket_hangers.jpeg",
+    "price": "FREE",
+    "details": [
+      "Total 10 hangers"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  }
 ]
