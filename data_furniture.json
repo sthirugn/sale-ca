@@ -167,7 +167,7 @@
       "Excellent condition",
       "Has all the basic tools for apartment/condo living"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -322,7 +322,7 @@
     "details": [
       "As shown in the picture"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
