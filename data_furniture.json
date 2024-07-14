@@ -103,5 +103,199 @@
     ],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Men's snow gloves",
+    "imageUrl": "items_img/mens_snow_gloves.jpeg",
+    "price": "$10",
+    "details": [
+      "Brand: Head",
+      "Bought in Costco 5 months ago; Paid $30"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Kids snow suit",
+    "imageUrl": "items_img/kids_snow_suit.jpeg",
+    "price": "$35",
+    "details": [
+      "Size: 8",
+      "Bought in Costco 5 months ago",
+      "Paid $76"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Two-step stool (small)",
+    "imageUrl": "items_img/ladder_small.jpeg",
+    "price": "$25",
+    "details": [
+      "Paid $50"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wooden 3 tier drawer",
+    "imageUrl": "items_img/3_tier_drawer_wood.jpeg",
+    "price": "$25",
+    "details": [
+      "Paid $40, bought recently, excellent condition"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Bissell cordless Vacuum Cleaner",
+    "imageUrl": "items_img/vacuum_cleaner.jpeg",
+    "price": "$80",
+    "details": [
+      "Paid $160",
+      "Excellent condition; bought 1 year ago"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Small two tier drawer",
+    "imageUrl": "items_img/small_two_tier_drawer.jpeg",
+    "price": "$20",
+    "details": [
+      "Paid $40 6 months ago"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea toolbox",
+    "imageUrl": "items_img/ikea_toolbox.jpeg",
+    "price": "$5",
+    "details": [
+      "Excellent condition"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea Storage box 1",
+    "imageUrl": "items_img/ikea_storage_box_1.jpeg",
+    "price": "FREE",
+    "details": [
+      "tbd"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea Storage box 2",
+    "imageUrl": "items_img/ikea_storage_box_2.jpeg",
+    "price": "$8",
+    "details": [
+      "Paid $20 6 months ago"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea Storage box 3",
+    "imageUrl": "items_img/ikea_storage_box_3.jpeg",
+    "price": "FREE",
+    "details": [
+      "tbd"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Grey Rugs (2)",
+    "imageUrl": "items_img/rugs.jpeg",
+    "price": "$10",
+    "details": [
+      "Excellent condition; very soft and clean"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Iron Box (Brand new unopened box)",
+    "imageUrl": "items_img/iron_box.jpeg",
+    "price": "$10",
+    "details": [
+      "Bought it few months ago and never opened "
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Boot Tray",
+    "imageUrl": "items_img/boot_tray.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Toddler Swim diaper",
+    "imageUrl": "items_img/toddler_swim_diaper.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Toddler snow boots",
+    "imageUrl": "items_img/toddler_snow_boot.jpeg",
+    "price": "FREE",
+    "details": [
+      "Size: US 10"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Kids snow boots",
+    "imageUrl": "items_img/kids_snow_boot.jpeg",
+    "price": "FREE",
+    "details": [
+      "Size: US 2"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Potty training seat (ikea)",
+    "imageUrl": "items_img/potty_training_seat.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Shoe Rack",
+    "imageUrl": "items_img/shoe_rack.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Rogers media kit",
+    "imageUrl": "items_img/rogers_kit.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
