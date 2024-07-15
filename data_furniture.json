@@ -126,7 +126,7 @@
     "purchaser": "id"
   },
   {
-    "name": "Kids snow suit",
+    "name": "Kids (girl) snow suit",
     "imageUrl": "items_img/kids_snow_suit.jpeg",
     "price": "$35",
     "details": [
@@ -189,17 +189,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Iron Box (Brand new unopened box)",
-    "imageUrl": "items_img/iron_box.jpeg",
-    "price": "$10",
-    "details": [
-      "Bought it few months ago and never opened",
-      "Available for immediate pickup"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
     "name": "Ikea Bowl",
     "imageUrl": "items_img/ikea_bowl.jpeg",
     "price": "$5",
@@ -234,25 +223,14 @@
     "purchaser": "id"
   },
   {
-    "name": "(FREE) Toddler snow boots",
-    "imageUrl": "items_img/toddler_snow_boot.jpeg",
-    "price": "FREE",
-    "details": [
-      "Size: US 10",
-      "Available for immediate pickup"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
-    "name": "(FREE) Kids snow boots",
+    "name": "(FREE) Kids (girl) snow boots",
     "imageUrl": "items_img/kids_snow_boot.jpeg",
     "price": "FREE",
     "details": [
       "Size: US 2",
       "Available for immediate pickup"
     ],
-    "state": "sold",
+    "state": "available",
     "purchaser": "id"
   },
   {
