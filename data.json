@@ -228,5 +228,88 @@
     ],
     "state": "sold",
     "purchaser": "id"
+  },
+  {
+    "name": "Ikea toolbox",
+    "imageUrl": "items_img/ikea_toolbox.jpeg",
+    "price": "$5",
+    "details": [
+      "Excellent condition",
+      "Has all the basic tools for apartment/condo living"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea Storage box 2",
+    "imageUrl": "items_img/ikea_storage_box_2.jpeg",
+    "price": "$8",
+    "details": [
+      "Paid $20 - 6 months ago",
+      "Fantastic condition"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Shoe Rack",
+    "imageUrl": "items_img/shoe_rack.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture; shoes not included"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+
+  {
+    "name": "(FREE) Ikea Storage box 1",
+    "imageUrl": "items_img/ikea_storage_box_1.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Ikea Storage box 3",
+    "imageUrl": "items_img/ikea_storage_box_3.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Bread Toaster",
+    "imageUrl": "items_img/bread_toaster.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Patio Chair",
+    "imageUrl": "items_img/patio_chair.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Rogers media kit",
+    "imageUrl": "items_img/rogers_kit.jpeg",
+    "price": "FREE",
+    "details": [
+      "As seen in the picture"
+    ],
+    "state": "sold",
+    "purchaser": "id"
   }
 ]
