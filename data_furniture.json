@@ -91,6 +91,17 @@
     "purchaser": "id"
   },
   {
+    "name": "Weighing machine",
+    "imageUrl": "items_img/weighing_machine.jpeg",
+    "price": "$15",
+    "details": [
+      "Bought in Canadian tires, worth $38",
+      "Available for immediate pickup"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Kids size white hangers",
     "imageUrl": "items_img/kids_size_hangers.jpeg",
     "price": "$10",
@@ -159,7 +170,7 @@
     "details": [
       "Excellent condition",
       "You can get $1 refill of these in Canadian tires",
-      "Available for immediate pickup"
+      "Available for pickup on Aug 1"
     ],
     "state": "available",
     "purchaser": "id"
