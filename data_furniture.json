@@ -196,7 +196,7 @@
       "Bought it few months ago and never opened",
       "Available for immediate pickup"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -241,7 +241,7 @@
       "Size: US 10",
       "Available for immediate pickup"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -252,7 +252,7 @@
       "Size: US 2",
       "Available for immediate pickup"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
