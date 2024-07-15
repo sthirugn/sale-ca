@@ -39,21 +39,6 @@
      "purchaser": "id"
   },
   {
-    "name": "SONGMICS Storage Dresser with 6 Drawers for Closet, Nursery, Dorm Room",
-    "url": "https://www.amazon.ca/gp/product/B07NY6WSXZ/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1",
-    "imageUrl": "items_img/wide_6_drawers_fabric_dresser.jpeg",
-    "price": "$50",
-    "details": [
-      "Fantastic condition, used for less than a year, smoke-free, pet-free",
-      "31.5 in L, Light Grey",
-      "Fabric shelf with Rigid Metal frame",
-      "Sells in Amazon for $88",
-      "Available for immediate pickup"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Costco winter tires (set of 4)",
     "url": "https://tires.costco.ca/Product?ItemNo=1631417&tirename=michelin-x-ice-snow&partno=30821&lang=en-ca&width=245&aspect=50&rim=20",
     "imageUrl": "items_img/costco_winter_tires.jpeg",
@@ -138,7 +123,6 @@
     "state": "available",
     "purchaser": "id"
   },
- 
   {
     "name": "Bissell cordless Vacuum Cleaner",
     "imageUrl": "items_img/vacuum_cleaner.jpeg",
