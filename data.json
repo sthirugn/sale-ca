@@ -311,5 +311,15 @@
     ],
     "state": "sold",
     "purchaser": "id"
+  },
+  {
+    "name": "(FREE) Water Kettle",
+    "imageUrl": "items_img/kettle_free.jpeg",
+    "price": "FREE",
+    "details": [
+      "As shown in the picture"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]

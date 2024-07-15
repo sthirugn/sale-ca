@@ -213,17 +213,6 @@
     "purchaser": "id"
   },
   {
-    "name": "(FREE) Boot Tray",
-    "imageUrl": "items_img/boot_tray.jpeg",
-    "price": "FREE",
-    "details": [
-      "As seen in the picture",
-      "Shoes not included; tray only"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "(FREE) Toddler Swim diaper",
     "imageUrl": "items_img/toddler_swim_diaper.jpeg",
     "price": "FREE",
@@ -259,17 +248,6 @@
     "price": "FREE",
     "details": [
       "As seen in the picture"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  
-    {
-    "name": "(FREE) Water Kettle",
-    "imageUrl": "items_img/kettle_free.jpeg",
-    "price": "FREE",
-    "details": [
-      "As shown in the picture"
     ],
     "state": "available",
     "purchaser": "id"
