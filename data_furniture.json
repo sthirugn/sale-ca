@@ -123,7 +123,7 @@
     "details": [
       "Paid $50; bought 6 months ago"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -178,7 +178,7 @@
       "Paid $20 - 6 months ago",
       "Fantastic condition"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -312,7 +312,7 @@
     "details": [
       "As shown in the picture"
     ],
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
