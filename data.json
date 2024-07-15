@@ -321,5 +321,25 @@
     ],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Two-step stool (small)",
+    "imageUrl": "items_img/ladder_small.jpeg",
+    "price": "$25",
+    "details": [
+      "Paid $50; bought 6 months ago"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wooden 3 tier drawer",
+    "imageUrl": "items_img/3_tier_drawer_wood.jpeg",
+    "price": "$25",
+    "details": [
+      "Paid $40, bought recently, excellent condition"
+    ],
+    "state": "sold",
+    "purchaser": "id"
   }
 ]
