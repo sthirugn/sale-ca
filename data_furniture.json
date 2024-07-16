@@ -39,17 +39,6 @@
      "purchaser": "id"
   },
   {
-    "name": "Fish Aquarium set",
-    "imageUrl": "items_img/fish_aquarium_set.jpeg",
-    "price": "$35",
-    "details": [
-    "Betta bowl set includes bowl, heater, filter with 3 pack cartridge refill, ph test kit, Melafix antifungal, aquarium salt, aquarium water conditioner, decorative rock, silk plant, food, net and baster for water change. If bought new, worth $120.",
-    "Available for immediate pickup"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Men's snow boots",
     "imageUrl": "items_img/mens_snow_boots.jpeg",
     "price": "$25",
