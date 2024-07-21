@@ -99,19 +99,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Bissell cordless Vacuum Cleaner",
-    "imageUrl": "items_img/vacuum_cleaner.jpeg",
-    "price": "$80",
-    "details": [
-      "Paid $160; comes with multiple attachments",
-      "Lightweight, durable, ideal for apartments and condos",
-      "Excellent condition; bought 1 year ago",
-      "Available for pickup on Aug 1"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Small two tier drawer",
     "imageUrl": "items_img/small_two_tier_drawer.jpeg",
     "price": "$20",
