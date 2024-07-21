@@ -136,9 +136,9 @@
     "purchaser": "id"
   },
   {
-    "name": "Grey Rugs (2)",
+    "name": "Grey Rugs (1)",
     "imageUrl": "items_img/rugs.jpeg",
-    "price": "$10",
+    "price": "$5",
     "details": [
       "Excellent condition; very soft and clean",
       "Bought 1 year ago, didn't use it much, was in storage",
@@ -165,17 +165,6 @@
     "price": "$10",
     "details": [
       "Good for outdoor play of the kids (like chalk)",
-      "Available for immediate pickup"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "(FREE) Toddler Swim diaper",
-    "imageUrl": "items_img/toddler_swim_diaper.jpeg",
-    "price": "FREE",
-    "details": [
-      "As seen in the picture",
       "Available for immediate pickup"
     ],
     "state": "available",
