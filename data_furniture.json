@@ -1,18 +1,5 @@
 [
   {
-    "name": "Expandable Dining table (with 4 chairs)",
-    "imageUrl": "items_img/dining_table_with_chairs.jpeg",
-    "price": "$100",
-    "details": [
-      "Table 47in x 32in, expands to 71in length",
-      "4 Accent chairs",
-      "pet-free, smoke-free",
-      "Available for pickup on July 26 or later"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
   "name": "Queen mattress 1",
     "imageUrl": "items_img/queen_bed.jpeg",
     "price": "$100",
