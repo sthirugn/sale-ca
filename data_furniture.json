@@ -28,7 +28,7 @@
   {
     "name": "Men's snow boots",
     "imageUrl": "items_img/mens_snow_boots.jpeg",
-    "price": "$25",
+    "price": "$20",
     "details": [
       "Bought in Mountain warehouse, used once, worth $50",
       "Size: 11",
@@ -52,7 +52,7 @@
   {
     "name": "Kids size white hangers",
     "imageUrl": "items_img/kids_size_hangers.jpeg",
-    "price": "$10",
+    "price": "$8",
     "details": [
       "Total 60 hangers, bought for $30; asking $10",
       "Available for immediate pickup"
@@ -63,7 +63,7 @@
   {
     "name": "Men's snow gloves",
     "imageUrl": "items_img/mens_snow_gloves.jpeg",
-    "price": "$10",
+    "price": "$8",
     "details": [
       "Brand: Head",
       "Bought in Costco 5 months ago; Paid $30",
@@ -75,7 +75,7 @@
   {
     "name": "Small two tier drawer",
     "imageUrl": "items_img/small_two_tier_drawer.jpeg",
-    "price": "$20",
+    "price": "$15",
     "details": [
       "Paid $40 - 6 months ago",
       "Excellent condition",
@@ -87,7 +87,7 @@
   {
     "name": "2 5-gallon water bottles BPA free",
     "imageUrl": "items_img/water_jugs.jpeg",
-    "price": "$15",
+    "price": "$10",
     "details": [
       "Excellent condition",
       "You can get $1 refill of these in Canadian tires",
@@ -97,11 +97,11 @@
     "purchaser": "id"
   },
   {
-    "name": "Grey Rug (1)",
+    "name": "Grey Rug",
     "imageUrl": "items_img/rugs.jpeg",
     "price": "$5",
     "details": [
-      "Excellent condition; very soft and clean",
+      "only one rug available; Excellent condition; very soft and clean",
       "Bought 1 year ago, didn't use it much, was in storage",
       "Available for immediate pickup"
     ],
