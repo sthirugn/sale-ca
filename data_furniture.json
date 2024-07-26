@@ -2,7 +2,7 @@
   {
   "name": "Queen mattress 1",
     "imageUrl": "items_img/queen_bed.jpeg",
-    "price": "$100",
+    "price": "$80",
     "details": [
       "FREE: mattress protector, 2 pillows, pillowcases, fitted sheets",
       "Excellent condition - no spills or stains, pet-free, smoke-free",
@@ -15,7 +15,7 @@
   {
     "name": "Queen mattress 2",
      "imageUrl": "items_img/queen_bed_other.jpeg",
-     "price": "$100",
+     "price": "$80",
      "details": [
       "FREE: mattress protector, 2 pillows, pillowcases, fitted sheets",
       "Excellent condition - no spills or stains, pet-free, smoke-free",
