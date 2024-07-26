@@ -73,19 +73,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Kids (girl) snow suit",
-    "imageUrl": "items_img/kids_snow_suit.jpeg",
-    "price": "$35",
-    "details": [
-      "Size: 8",
-      "Bought in Costco 5 months ago",
-      "Paid $76",
-      "Available for immediate pickup"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Small two tier drawer",
     "imageUrl": "items_img/small_two_tier_drawer.jpeg",
     "price": "$20",
@@ -110,7 +97,7 @@
     "purchaser": "id"
   },
   {
-    "name": "Grey Rugs (1)",
+    "name": "Grey Rug (1)",
     "imageUrl": "items_img/rugs.jpeg",
     "price": "$5",
     "details": [
@@ -136,7 +123,7 @@
   {
     "name": "2 kids play Foam Mats",
     "imageUrl": "items_img/foam_mats.jpeg",
-    "price": "$10",
+    "price": "$8",
     "details": [
       "Good for outdoor play of the kids (like chalk)",
       "Available for immediate pickup"
