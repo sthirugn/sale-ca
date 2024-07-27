@@ -1,31 +1,5 @@
 [
   {
-  "name": "Queen mattress 1",
-    "imageUrl": "items_img/queen_bed.jpeg",
-    "price": "$80",
-    "details": [
-      "FREE: mattress protector, 2 pillows, pillowcases, fitted sheets",
-      "Excellent condition - no spills or stains, pet-free, smoke-free",
-      "Mattress bought in Ikea 1 year ago for $349; Paid $100 for pillows and bedding",
-      "Available for pickup on Aug 1"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Queen mattress 2",
-     "imageUrl": "items_img/queen_bed_other.jpeg",
-     "price": "$80",
-     "details": [
-      "FREE: mattress protector, 2 pillows, pillowcases, fitted sheets",
-      "Excellent condition - no spills or stains, pet-free, smoke-free",
-      "Mattress bought in Ikea 1 year ago for $349; Paid $100 for pillows and bedding",
-      "Available for pickup on Aug 1"
-     ],
-     "state": "available",
-     "purchaser": "id"
-  },
-  {
     "name": "Men's snow boots",
     "imageUrl": "items_img/mens_snow_boots.jpeg",
     "price": "$20",
