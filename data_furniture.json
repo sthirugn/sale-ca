@@ -2,7 +2,7 @@
   {
     "name": "Men's snow boots",
     "imageUrl": "items_img/mens_snow_boots.jpeg",
-    "price": "$20",
+    "price": "$10",
     "details": [
       "Bought in Mountain warehouse, used once, worth $50",
       "Size: 11",
@@ -14,7 +14,7 @@
   {
     "name": "Weighing machine",
     "imageUrl": "items_img/weighing_machine.jpeg",
-    "price": "$15",
+    "price": "$10",
     "details": [
       "Bought in Canadian tires 9 months ago, worth $38",
       "Excellent condition",
@@ -26,7 +26,7 @@
   {
     "name": "Small two tier drawer",
     "imageUrl": "items_img/small_two_tier_drawer.jpeg",
-    "price": "$15",
+    "price": "$10",
     "details": [
       "Paid $40 - 6 months ago",
       "Excellent condition",
@@ -50,7 +50,7 @@
   {
     "name": "Ikea Bowl",
     "imageUrl": "items_img/ikea_bowl.jpeg",
-    "price": "$5",
+    "price": "$3",
     "details": [
       "As shown in the picture; just the bowl",
       "Excellent condition",
@@ -62,7 +62,7 @@
   {
     "name": "2 kids play Foam Mats",
     "imageUrl": "items_img/foam_mats.jpeg",
-    "price": "$8",
+    "price": "$5",
     "details": [
       "Good for outdoor play of the kids (like chalk)",
       "Available for immediate pickup"
