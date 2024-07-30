@@ -48,18 +48,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea Bowl",
-    "imageUrl": "items_img/ikea_bowl.jpeg",
-    "price": "$3",
-    "details": [
-      "As shown in the picture; just the bowl",
-      "Excellent condition",
-      "Available for immediate pickup"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "2 kids play Foam Mats",
     "imageUrl": "items_img/foam_mats.jpeg",
     "price": "$5",
